@@ -13,5 +13,5 @@ O projeto principal se trata de um chatbot que tem tres funções:
 
 ## Feito por:
 ### Danilo Ribeiro 
-### Linkedin: https://www.linkedin.com/in/danilo-ribeiro-142962274/
+### Linkedin: https://www.linkedin.com/in/danilo-ribeiro-catroli-da-silva/
 ### Email: danilo051007@gmail.com
